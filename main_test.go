@@ -66,7 +66,7 @@ func TestSumFunc(t *testing.T) {
 				b: 0,
 			},
 			wanted: 0,
-		},
+		}, // 123
 		{
 			name: "Test-positive-negative-zero",
 			args: args{
